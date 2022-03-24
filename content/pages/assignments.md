@@ -67,7 +67,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/problem5))
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/problem6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/problem6_sol))
+([PDF]({{< baseurl >}}/resources/problem6_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/problem7))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF 1]({{< baseurl >}}/resources/problem8_part1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/problem8_part2))
+Problem Set 8 ([PDF 1]({{< baseurl >}}/resources/problem8_part1)) ([PDF 2]({{< baseurl >}}/resources/problem8_part2))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/problem8_sol))
