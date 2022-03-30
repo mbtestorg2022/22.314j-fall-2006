@@ -4,6 +4,7 @@ description: Homework assignment. This document was created from scanned origina
   files, which are inaccessible to screen reader software.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/6dd21d5e3564685f06e1373428bc6457_problem8_part2.pdf
 file_type: application/pdf
+parent_uid: c7bae95b-ab4b-e9af-9d2b-7c138f515321
 resourcetype: Document
 title: problem8_part2.pdf
 uid: 6dd21d5e-3564-685f-06e1-373428bc6457
